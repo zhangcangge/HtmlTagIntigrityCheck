@@ -2,7 +2,7 @@
 HtmlTagChecker.class.js defined a class HtmlTagChecker that could solve html tag intigrity check.  
 HtmlTagCheckerTest.js is an example of HtmlTagChecker using.  
 
-The kernel function in HtmlTagChecker is TagIntigritiyCheck(tagAry).  
+The kernel function in HtmlTagChecker is tagIntigritiyCheck(tagAry).  
 It will use recursion to solve html tag intigrity check.  
 
 More detail comments are in the code files.
