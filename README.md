@@ -17,17 +17,17 @@ npm test
 -------------  Case 1: Correctly tagged paragraph.  -------------  
 
 -------------  Case 2: 2 errors in this paragraph.  -------------  
-               Expect </C> found </B>  
-               Expect # found </C>  
+               Expect \</C\> found \</B\>  
+               Expect # found \</C\>  
 
 -------------  Case 3: 1 errors in this paragraph.  -------------  
-               Expect # found </C>  
+               Expect # found \</C\>  
 
 -------------  Case 4: 1 errors in this paragraph.  -------------  
-               Expect </B> found #  
+               Expect \</B\> found #  
 
 -------------  Case 5: 4 errors in this paragraph.  -------------  
-               Expect </C> found </B>  
-               Expect # found </C>  
-               Expect # found </C>  
-               Expect </B> found #  
+               Expect \</C\> found \</B\>  
+               Expect # found \</C\>  
+               Expect # found \</C\>  
+               Expect \</B\> found #  
