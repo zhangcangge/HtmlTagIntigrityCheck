@@ -12,21 +12,21 @@ npm install
 npm test
 
 # Example result
-－－－－－－－－　Case 0: Correctly tagged paragraph.　－－－－－－－－\<br>
+－－－－－－－－　Case 0: Correctly tagged paragraph.　－－－－－－－－  
 
-－－－－－－－－　Case 1: Correctly tagged paragraph.　－－－－－－－－\<br>
+－－－－－－－－　Case 1: Correctly tagged paragraph.　－－－－－－－－  
 
-－－－－－－－－　Case 2: 2 errors in this paragraph.　－－－－－－－－\<br>
+－－－－－－－－　Case 2: 2 errors in this paragraph.　－－－－－－－－  
 　　　　　　　　　Expect \</C\> found \</B\>  
 　　　　　　　　　Expect # found \</C\>  
 
-－－－－－－－－　Case 3: 1 errors in this paragraph.　－－－－－－－－\<br>
+－－－－－－－－　Case 3: 1 errors in this paragraph.　－－－－－－－－  
 　　　　　　　　　Expect # found \</C\>  
 
-－－－－－－－－　Case 4: 1 errors in this paragraph.　－－－－－－－－\<br>
+－－－－－－－－　Case 4: 1 errors in this paragraph.　－－－－－－－－  
 　　　　　　　　　Expect \</B\> found #  
 
-－－－－－－－－　Case 5: 4 errors in this paragraph.　－－－－－－－－\<br>
+－－－－－－－－　Case 5: 4 errors in this paragraph.　－－－－－－－－  
 　　　　　　　　　Expect \</C\> found \</B\>  
 　　　　　　　　　Expect # found \</C\>  
 　　　　　　　　　Expect # found \</C\>  
