@@ -1,0 +1,18 @@
+{
+  "name": "htmltagintigritycheck",
+  "version": "1.0.0",
+  "description": "check whether all tags in one paragraph could find correct corresponding match tag.",
+  "main": "HtmlTagCheckerTest.js",
+  "scripts": {
+    "test": "node ./HtmlTagCheckerTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangcangge/HtmlTagIntigrityCheck.git"
+  },
+  "keywords": [
+    "HtmlTagChecker"
+  ],
+  "author": "CangGe Zhang",
+  "license": "ISC"
+}
